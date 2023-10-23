@@ -22,7 +22,7 @@ function RollRevolution() {
     } //check for doubles and even for the win 
     else if (die1 == die2 && die1 % 2 == 0) {
         document.getElementById("gameRes").innerHTML =
-            "Congratulations! You Won $1,000,000 In Roll Revolution Chips!";
+            "Congratulations! You Won $1,000,000 In Roll Revolution Virtual Chips!";
 
     } //No win or loss
     else {
